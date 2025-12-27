@@ -1,4 +1,4 @@
-package bj.mtn.xmlwsbankservice;
+package com.enset.xmlwsbankservice;
 
 import jakarta.jws.WebMethod;
 import jakarta.jws.WebParam;

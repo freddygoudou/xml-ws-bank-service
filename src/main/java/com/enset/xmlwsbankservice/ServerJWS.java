@@ -1,4 +1,4 @@
-package bj.mtn.xmlwsbankservice;
+package com.enset.xmlwsbankservice;
 
 import jakarta.xml.ws.Endpoint;
 
